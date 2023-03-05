@@ -1,0 +1,276 @@
+<div class="main-shop">
+      <h1 class="hidden">Customise Your Game.</h1>
+      <h2 class="headline">Choose the option right for you.</h2>
+      <div class="container">
+        <form>
+          <label for="player-type">Select player type:</label>
+          <select id="player-type" name="player-type">
+            <option value="beginner">Beginner</option>
+            <option value="intermediate">Intermediate</option>
+            <option value="advanced">Advanced</option>
+          </select>
+          <br>
+          <label for="string-type">Select string type:</label>
+          <select id="string-type" name="string-type">
+            <option value="natural-gut">Natural Gut</option>
+            <option value="synthetic-gut">Synthetic Gut</option>
+            <option value="polyester">Polyester</option>
+            <option value="multifilament">Multifilament</option>
+          </select>
+          <br>
+          <label for="tension-range">Select tension range:</label>
+          <select id="tension-range" name="tension-range">
+            <option value="low">Low</option>
+            <option value="medium">Medium</option>
+            <option value="high">High</option>
+          </select>
+          <br>
+          <label for="string-select">Select string:</label>
+          <select class="custom-select style_ordering-select active" data-gtm-form-interact-field-id="1">
+            <option value="">Choose a string</option>
+            <option value="XFIRE17" data-og_name="Ashaway Crossfire 17 (1.25) Kevlar String">Ashaway Crossfire 17 (1.25) Kevlar String - 12,90 €</option>
+            <option value="XFIRE18" data-og_name="Ashaway Crossfire 18 (1.10) Kevlar String">Ashaway Crossfire 18 (1.10) Kevlar String - 13,90 €</option>
+            <option value="XFIREZXT17" data-og_name="Ashaway Crossfire ZX (1.25/1.22) String">Ashaway Crossfire ZX (1.25/1.22) String - 14,90 €</option>
+            <option value="D17SOFT" data-og_name="Ashaway Dynamite 17 (1.25) Natural String Optic Green">Ashaway Dynamite 17 (1.25) Natural String Optic Green - 15,90 €</option>
+            <option value="BADDS125" data-og_name="Babolat Addixion 1.25/17 String">Babolat Addixion 1.25/17 String - 11,90 €</option>
+            <option value="BADDS130" data-og_name="Babolat Addixion 1.30/16 String">Babolat Addixion 1.30/16 String - 11,90 €</option>
+            <option value="BHYBRVS" data-og_name="Babolat Hybrid RPM Blast 1.25 + VS 1.30/16 String Black">Babolat Hybrid RPM Blast 1.25 + VS 1.30/16 String Black - 34,90 €</option>
+            <option value="BRPMB15" data-og_name="Babolat RPM Blast 1.35/15L String">Babolat RPM Blast 1.35/15L String - 14,90 €</option>
+            <option value="BRPMB25" data-og_name="Babolat RPM Blast Orange 1.25 String">Babolat RPM Blast Orange 1.25 String - 11,90 €</option>
+            <option value="BRPMBO3" data-og_name="Babolat RPM Blast Orange 1.30/16 String">Babolat RPM Blast Orange 1.30/16 String - 11,90 €</option>
+            <option value="RPMHUR8" data-og_name="Babolat RPM Hurricane 1.20/18 String Set">Babolat RPM Hurricane 1.20/18 String Set - 8,90 €</option>
+            <option value="RPMHUR7" data-og_name="Babolat RPM Hurricane 1.25/17 String Set">Babolat RPM Hurricane 1.25/17 String Set - 8,90 €</option>
+            <option value="RPMHUR6" data-og_name="Babolat RPM Hurricane 1.30/16 String Set">Babolat RPM Hurricane 1.30/16 String Set - 8,90 €</option>
+            <option value="BRPMP17BL" data-og_name="Babolat RPM Power 1.25/17 Blue String Set">Babolat RPM Power 1.25/17 Blue String Set - 11,90 €</option>
+            <option value="BRPMP16BL" data-og_name="Babolat RPM Power 1.30/16 Blue String Set">Babolat RPM Power 1.30/16 Blue String Set - 11,90 €</option>
+            <option value="BRPMP16" data-og_name="Babolat RPM Power 1.30/16 String Set">Babolat RPM Power 1.30/16 String Set - 11,90 €</option>
+            <option value="BROUG3SYE" data-og_name="Babolat RPM Rough 1.30/16 String Set (Yellow)">Babolat RPM Rough 1.30/16 String Set (Yellow) - 13,90 €</option>
+            <option value="NBXCEL16" data-og_name="Babolat XCel 1.30/16 String Natural">Babolat XCel 1.30/16 String Natural - 15,30 €</option>
+            <option value="DSTACBW16" data-og_name="Dunlop Black Widow 16 (1.31) String">Dunlop Black Widow 16 (1.31) String - 12,50 €</option>
+            <option value="DNTMP125S" data-og_name="Dunlop NT Max Plus 12m 1.25 String">Dunlop NT Max Plus 12m 1.25 String - 13,90 €</option>
+            <option value="GIO1616" data-og_name="Gamma iO 16 String">Gamma iO 16 String - 7,90 €</option>
+            <option value="GIO1617" data-og_name="Gamma iO 17 String">Gamma iO 17 String - 7,90 €</option>
+            <option value="GMOTOS17" data-og_name="Gamma Moto Soft 17 String ">Gamma Moto Soft 17 String - 8,90 €</option>
+            <option value="TNTR17" data-og_name="Gamma TNT2 17/1.27  Natural String Reel - 110m">Gamma TNT2 17/1.27 Natural String Reel - 110m - 89,26 €</option>
+            <option value="HWAKT18" data-og_name="Head Hawk Touch 1.20/18 String Anthracite">Head Hawk Touch 1.20/18 String Anthracite - 11,90 €</option>
+            <option value="HWAKT17" data-og_name="Head Hawk Touch 1.25/17 String Anthracite">Head Hawk Touch 1.25/17 String Anthracite - 11,90 €</option>
+            <option value="HWAKT16" data-og_name="Head Hawk Touch 1.30/16 String Anthracite">Head Hawk Touch 1.30/16 String Anthracite - 11,90 €</option>
+            <option value="HIT" data-og_name="Head IntelliTour 1.25 (17) String">Head IntelliTour 1.25 (17) String - 9,50 €</option>
+            <option value="HLTS18BK" data-og_name="Head Lynx Tour 1.20/18 String Set Black">Head Lynx Tour 1.20/18 String Set Black - 9,90 €</option>
+            <option value="HLTSBK" data-og_name="Head Lynx Tour 1.25/17 String Set Black">Head Lynx Tour 1.25/17 String Set Black - 9,90 €</option>
+            <option value="HLTSS" data-og_name="Head Lynx Tour 1.25/17 String Set Champagne">Head Lynx Tour 1.25/17 String Set Champagne - 9,90 €</option>
+            <option value="HLTSGY" data-og_name="Head Lynx Tour 1.25/17 String Set Grey">Head Lynx Tour 1.25/17 String Set Grey - 9,90 €</option>
+            <option value="HLTSOR" data-og_name="Head Lynx Tour 1.25/17 String Set Orange">Head Lynx Tour 1.25/17 String Set Orange - 9,90 €</option>
+            <option value="HLTS16BK" data-og_name="Head Lynx Tour 1.30/16 String Set Black">Head Lynx Tour 1.30/16 String Set Black - 9,90 €</option>
+            <option value="HLTSS16" data-og_name="Head Lynx Tour 1.30/16 String Set Champagne">Head Lynx Tour 1.30/16 String Set Champagne - 9,90 €</option>
+            <option value="HLTSGY16" data-og_name="Head Lynx Tour 1.30/16 String Set Grey">Head Lynx Tour 1.30/16 String Set Grey - 9,90 €</option>
+            <option value="HLTSOR16" data-og_name="Head Lynx Tour 1.30/16 String Set Orange">Head Lynx Tour 1.30/16 String Set Orange - 9,90 €</option>
+            <option value="HRM16S" data-og_name="Head Reflex MLT 1.30/16 String">Head Reflex MLT 1.30/16 String - 12,90 €</option>
+            <option value="HSPE17" data-og_name="Head Sonic Pro Edge 1.25/17 String">Head Sonic Pro Edge 1.25/17 String - 9,90 €</option>
+            <option value="HSPE16" data-og_name="Head Sonic Pro Edge 1.30/16 String">Head Sonic Pro Edge 1.30/16 String - 7,49 €</option>
+            <option value="HVM17SNA" data-og_name="Head Velocity MLT 17/1.25 String Natural">Head Velocity MLT 17/1.25 String Natural - 10,90 €</option>
+            <option value="ISOBF16" data-og_name="ISOSPEED Black Fire 17 String (1.25)">ISOSPEED Black Fire 17 String (1.25) - 13,49 €</option>
+            <option value="ISOC16" data-og_name="ISOSPEED Control 1.30/16 String">ISOSPEED Control 1.30/16 String - 14,50 €</option>
+            <option value="ISOCC16" data-og_name="ISOSPEED Control Classic 1.30 String - Limited Edition">ISOSPEED Control Classic 1.30 String - Limited Edition - 12,90 €</option>
+            <option value="ISOCR17" data-og_name="ISOSPEED Cream 1.28 String">ISOSPEED Cream 1.28 String - 10,50 €</option>
+            <option value="ISOENP" data-og_name="ISOSPEED Energetic Plus 1.30/16 String">ISOSPEED Energetic Plus 1.30/16 String - 12,50 €</option>
+            <option value="ISOPC120" data-og_name="ISOSPEED Professional Classic 1.20/17 String">ISOSPEED Professional Classic 1.20/17 String - 12,90 €</option>
+            <option value="IV18112" data-og_name="ISOSPEED V18 1.12 String">ISOSPEED V18 1.12 String - 9,90 €</option>
+            <option value="IV18117" data-og_name="ISOSPEED V18 1.17 String">ISOSPEED V18 1.17 String - 9,90 €</option>
+            <option value="SHARK17B" data-og_name="Kirschbaum Black Shark 1.25/17 String">Kirschbaum Black Shark 1.25/17 String - 9,90 €</option>
+            <option value="SHARK16B" data-og_name="Kirschbaum Black Shark 1.30/16 String">Kirschbaum Black Shark 1.30/16 String - 9,90 €</option>
+            <option value="COMPK17" data-og_name="Kirschbaum Competition 1.20/18 String">Kirschbaum Competition 1.20/18 String - 10,90 €</option>
+            <option value="COMPK125" data-og_name="Kirschbaum Competition 1.25/17 String">Kirschbaum Competition 1.25/17 String - 10,90 €</option>
+            <option value="COMPK130" data-og_name="Kirschbaum Competition 1.30/16 String">Kirschbaum Competition 1.30/16 String - 10,90 €</option>
+            <option value="HELIX120" data-og_name="Kirschbaum Helix 1.20 (18) String">Kirschbaum Helix 1.20 (18) String - 9,90 €</option>
+            <option value="HELIX125" data-og_name="Kirschbaum Helix 1.25/17 String">Kirschbaum Helix 1.25/17 String - 9,90 €</option>
+            <option value="KMAXPWR17" data-og_name="Kirschbaum Max Power 1.25/17 String">Kirschbaum Max Power 1.25/17 String - 12,90 €</option>
+            <option value="KMAXPWR16" data-og_name="Kirschbaum Max Power 1.30/16 String">Kirschbaum Max Power 1.30/16 String - 12,90 €</option>
+            <option value="KMAXPWRR17" data-og_name="Kirschbaum Max Power Rough 1.25/17 String">Kirschbaum Max Power Rough 1.25/17 String - 12,90 €</option>
+            <option value="KIRPRO" data-og_name="Kirschbaum Pro Line Evolution 1.30/16 String Blue">Kirschbaum Pro Line Evolution 1.30/16 String Blue - 7,20 €</option>
+            <option value="PLE2125BLU" data-og_name="Kirschbaum Pro Line II Evolution 1.25/17 String Blue">Kirschbaum Pro Line II Evolution 1.25/17 String Blue - 8,90 €</option>
+            <option value="PL2R125" data-og_name="Kirschbaum Pro Line Rough 1.25/17 String ">Kirschbaum Pro Line Rough 1.25/17 String - 9,90 €</option>
+            <option value="PL2R130BK" data-og_name="Kirschbaum Pro Line Rough 1.30/16 String ">Kirschbaum Pro Line Rough 1.30/16 String - 9,90 €</option>
+            <option value="PL2R115BK" data-og_name="Kirschbaum Pro Line Rough 18 (1.20) String ">Kirschbaum Pro Line Rough 18 (1.20) String - 9,90 €</option>
+            <option value="PLX17CO" data-og_name="Kirschbaum Pro Line X 1.25/17 String Cherry/Orange">Kirschbaum Pro Line X 1.25/17 String Cherry/Orange - 4,90 €</option>
+            <option value="TMULTI16" data-og_name="Kirschbaum Touch Multifiber 1.30/16 String">Kirschbaum Touch Multifiber 1.30/16 String - 17,90 €</option>
+            <option value="LUX4G130" data-og_name="Luxilon 4G 16/1.30 String">Luxilon 4G 16/1.30 String - 23,50 €</option>
+            <option value="LUX4G125B" data-og_name="Luxilon 4G 16L/1.25 Black String">Luxilon 4G 16L/1.25 Black String - 22,90 €</option>
+            <option value="LUX4G125" data-og_name="Luxilon 4G 16L/1.25 String">Luxilon 4G 16L/1.25 String - 23,50 €</option>
+            <option value="L4GR16" data-og_name="Luxilon 4G Rough 16L/1.25 String">Luxilon 4G Rough 16L/1.25 String - 20,90 €</option>
+            <option value="LUX4GS16" data-og_name="Luxilon 4G Soft 16 (1.25) String">Luxilon 4G Soft 16 (1.25) String - 21,50 €</option>
+            <option value="LA16" data-og_name="Luxilon Adrenaline 16/1.30 String">Luxilon Adrenaline 16/1.30 String - 8,90 €</option>
+            <option value="LA16L" data-og_name="Luxilon Adrenaline 16L/1.25 String">Luxilon Adrenaline 16L/1.25 String - 8,90 €</option>
+            <option value="LAP1660" data-og_name="Luxilon ALU Power 1.30 60th Anniversary String">Luxilon ALU Power 1.30 60th Anniversary String - 12,00 €</option>
+            <option value="LAP125SLI" data-og_name="Luxilon ALU Power 16L (1.25) Limited String Lime">Luxilon ALU Power 16L (1.25) Limited String Lime - 19,90 €</option>
+            <option value="LALUPF" data-og_name="Luxilon ALU Power 17/1.20 String">Luxilon ALU Power 17/1.20 String - 19,90 €</option>
+            <option value="APRGS16" data-og_name="Luxilon Alu Power Roland Garros String Set 1.28/16">Luxilon Alu Power Roland Garros String Set 1.28/16 - 17,90 €</option>
+            <option value="LALUPV" data-og_name="Luxilon ALU Power Vibe 17/1.25 String">Luxilon ALU Power Vibe 17/1.25 String - 20,00 €</option>
+            <option value="ALUPR16" data-og_name="Luxilon BB ALU Power Rough 16L/1.25 String Set">Luxilon BB ALU Power Rough 16L/1.25 String Set - 19,90 €</option>
+            <option value="ALUPRSFT16" data-og_name="Luxilon BB ALU Power Soft 16L/1.25 String Set">Luxilon BB ALU Power Soft 16L/1.25 String Set - 21,90 €</option>
+            <option value="LE16FGS" data-og_name="Luxilon Element 16/1.30 Forest Green String">Luxilon Element 16/1.30 Forest Green String - 19,90 €</option>
+            <option value="LE130RS" data-og_name="Luxilon Element 16/1.30 Rough String">Luxilon Element 16/1.30 Rough String - 15,90 €</option>
+            <option value="LE16S" data-og_name="Luxilon Element 16/1.30 String">Luxilon Element 16/1.30 String - 15,90 €</option>
+            <option value="LE16LS" data-og_name="Luxilon Element 16L/1.25 String">Luxilon Element 16L/1.25 String - 15,90 €</option>
+            <option value="LUXN130S" data-og_name="Luxilon Natural Gut 16/1.30 String">Luxilon Natural Gut 16/1.30 String - 54,89 €</option>
+            <option value="LUXN125S" data-og_name="Luxilon Natural Gut 16L/1.25 String">Luxilon Natural Gut 16L/1.25 String - 54,89 €</option>
+            <option value="MSVCF1WH16L" data-og_name="MSV Co-Focus 17L  (1.18) String Reel White 17L Gauge">MSV Co-Focus 17L (1.18) String Reel White 17L Gauge - 58,91 €</option>
+            <option value="FHS18BK" data-og_name="MSV Focus Hex Soft 1.15 String Black">MSV Focus Hex Soft 1.15 String Black - 5,90 €</option>
+            <option value="FHS17LBK" data-og_name="MSV Focus Hex Soft 1.20 String Black">MSV Focus Hex Soft 1.20 String Black - 5,90 €</option>
+            <option value="FHS16BK" data-og_name="MSV Focus Hex Soft 1.25 String Black">MSV Focus Hex Soft 1.25 String Black - 5,90 €</option>
+            <option value="MGM125" data-og_name="MSV GO MAX 1.25 String">MSV GO MAX 1.25 String - 4,90 €</option>
+            <option value="MGM125R" data-og_name="MSV GO MAX 1.25 String Reel - 200m">MSV GO MAX 1.25 String Reel - 200m - 49,90 €</option>
+            <option value="PPT17" data-og_name="Prince Premier Touch 17/1.25 String">Prince Premier Touch 17/1.25 String - 14,90 €</option>
+            <option value="PTXP17GN" data-og_name="Prince Tour Xtra Power 17/1.25 String Green">Prince Tour Xtra Power 17/1.25 String Green - 12,90 €</option>
+            <option value="PWHT" data-og_name="Prince Warrior Hybrid Touch 16/1.30 String">Prince Warrior Hybrid Touch 16/1.30 String - 9,90 €</option>
+            <option value="RSL17L" data-og_name="RS Lyon 1.20 (17L) String">RS Lyon 1.20 (17L) String - 9,90 €</option>
+            <option value="RSL17" data-og_name="RS Lyon 1.25 (17) String">RS Lyon 1.25 (17) String - 9,90 €</option>
+            <option value="SPF130S" data-og_name="Signum Pro Fibercore 1.30 String">Signum Pro Fibercore 1.30 String - 8,50 €</option>
+            <option value="SIGPF120S" data-og_name="Signum Pro Firestorm 1.20 String Gold">Signum Pro Firestorm 1.20 String Gold - 9,50 €</option>
+            <option value="SIGPF125S" data-og_name="Signum Pro Firestorm 1.25 String Gold">Signum Pro Firestorm 1.25 String Gold - 9,50 €</option>
+            <option value="SIGPF130S" data-og_name="Signum Pro Firestorm 1.30 String Gold">Signum Pro Firestorm 1.30 String Gold - 9,50 €</option>
+            <option value="SIGPH118S" data-og_name="Signum Pro Hyperion 1.18 String">Signum Pro Hyperion 1.18 String - 7,50 €</option>
+            <option value="SIGPH124S" data-og_name="Signum Pro Hyperion 1.24 String">Signum Pro Hyperion 1.24 String - 7,50 €</option>
+            <option value="SIGPH130S" data-og_name="Signum Pro Hyperion 1.30 String">Signum Pro Hyperion 1.30 String - 7,50 €</option>
+            <option value="SIGPHEXP17S" data-og_name="Signum Pro Plasma HEXtreme Pure 1.20 String">Signum Pro Plasma HEXtreme Pure 1.20 String - 6,95 €</option>
+            <option value="SIGPHEXP16S" data-og_name="Signum Pro Plasma HEXtreme Pure 1.25 String">Signum Pro Plasma HEXtreme Pure 1.25 String - 6,95 €</option>
+            <option value="SIGPPP17L" data-og_name="Signum Pro Poly Plasma 1.18 String">Signum Pro Poly Plasma 1.18 String - 5,50 €</option>
+            <option value="SIGPPP170" data-og_name="Signum Pro Poly Plasma 1.23 String">Signum Pro Poly Plasma 1.23 String - 5,50 €</option>
+            <option value="SIGPPP16L" data-og_name="Signum Pro Poly Plasma 1.28 String">Signum Pro Poly Plasma 1.28 String - 5,50 €</option>
+            <option value="SIGPPP17LW" data-og_name="Signum Pro Poly Plasma Pure 1.18 String">Signum Pro Poly Plasma Pure 1.18 String - 5,50 €</option>
+            <option value="SIGPT124S" data-og_name="Signum Pro Thunderstorm 1.24 String Violet">Signum Pro Thunderstorm 1.24 String Violet - 7,90 €</option>
+            <option value="SIGPT117S" data-og_name="Signum Pro Tornado 1.17 String">Signum Pro Tornado 1.17 String - 7,90 €</option>
+            <option value="SIGPT123S" data-og_name="Signum Pro Tornado 1.23 String">Signum Pro Tornado 1.23 String - 7,90 €</option>
+            <option value="SIGPT129S" data-og_name="Signum Pro Tornado 1.29 String">Signum Pro Tornado 1.29 String - 7,90 €</option>
+            <option value="SIGPT125S" data-og_name="Signum Pro Twister 1.25 String ">Signum Pro Twister 1.25 String - 5,50 €</option>
+            <option value="SPXP118S" data-og_name="Signum Pro X-perience 1.18 String">Signum Pro X-perience 1.18 String - 8,90 €</option>
+            <option value="SPXP124S" data-og_name="Signum Pro X-perience 1.24 String">Signum Pro X-perience 1.24 String - 8,90 €</option>
+            <option value="SPYJ16" data-og_name="Signum Pro Yellow Jacket 16 (1.30) String">Signum Pro Yellow Jacket 16 (1.30) String - 9,90 €</option>
+            <option value="SLNC18S" data-og_name="Solinco Confidential 1.15/18 String">Solinco Confidential 1.15/18 String - 11,90 €</option>
+            <option value="SLNC17S" data-og_name="Solinco Confidential 1.20/17 String">Solinco Confidential 1.20/17 String - 11,90 €</option>
+            <option value="SLNC16LS" data-og_name="Solinco Confidential 1.25/16L String">Solinco Confidential 1.25/16L String - 11,90 €</option>
+            <option value="SLNC16S" data-og_name="Solinco Confidential 1.30/16 String">Solinco Confidential 1.30/16 String - 11,90 €</option>
+            <option value="SHG18" data-og_name="Solinco Hyper-G 1.15/18 String">Solinco Hyper-G 1.15/18 String - 11,90 €</option>
+            <option value="SHG17" data-og_name="Solinco Hyper-G 1.20/17 String">Solinco Hyper-G 1.20/17 String - 11,90 €</option>
+            <option value="SHG16L" data-og_name="Solinco Hyper-G 1.25/16L String">Solinco Hyper-G 1.25/16L String - 11,90 €</option>
+            <option value="SHG16" data-og_name="Solinco Hyper-G 1.30/16 String">Solinco Hyper-G 1.30/16 String - 11,90 €</option>
+            <option value="SHGS18" data-og_name="Solinco Hyper-G Soft 1.15/18 String">Solinco Hyper-G Soft 1.15/18 String - 11,90 €</option>
+            <option value="SHGS17" data-og_name="Solinco Hyper-G Soft 1.20/17 String">Solinco Hyper-G Soft 1.20/17 String - 11,90 €</option>
+            <option value="SHGS16L" data-og_name="Solinco Hyper-G Soft 1.25/16L String">Solinco Hyper-G Soft 1.25/16L String - 11,90 €</option>
+            <option value="SHGS16" data-og_name="Solinco Hyper-G Soft 1.30/16 String">Solinco Hyper-G Soft 1.30/16 String - 11,90 €</option>
+            <option value="SOUT16L" data-og_name="Solinco Outlast 1.25/16L String">Solinco Outlast 1.25/16L String - 6,90 €</option>
+            <option value="SREV18" data-og_name="Solinco Revolution 1.15/18 String">Solinco Revolution 1.15/18 String - 8,90 €</option>
+            <option value="SREV17" data-og_name="Solinco Revolution 1.20/17 String">Solinco Revolution 1.20/17 String - 8,90 €</option>
+            <option value="SREV16L" data-og_name="Solinco Revolution 1.25/16L String">Solinco Revolution 1.25/16L String - 8,90 €</option>
+            <option value="SREV16" data-og_name="Solinco Revolution 1.30/16 String">Solinco Revolution 1.30/16 String - 8,90 €</option>
+            <option value="STB20" data-og_name="Solinco Tour Bite 1.05/20 String">Solinco Tour Bite 1.05/20 String - 11,90 €</option>
+            <option value="STB18" data-og_name="Solinco Tour Bite 1.15/18 String">Solinco Tour Bite 1.15/18 String - 11,90 €</option>
+            <option value="STB17" data-og_name="Solinco Tour Bite 1.20/17 String">Solinco Tour Bite 1.20/17 String - 11,90 €</option>
+            <option value="STB16L" data-og_name="Solinco Tour Bite 1.25/16L String">Solinco Tour Bite 1.25/16L String - 11,90 €</option>
+            <option value="STB16" data-og_name="Solinco Tour Bite 1.30/16 String">Solinco Tour Bite 1.30/16 String - 11,90 €</option>
+            <option value="STB15L" data-og_name="Solinco Tour Bite 15L/1.35 String">Solinco Tour Bite 15L/1.35 String - 11,90 €</option>
+            <option value="SHTBV16L" data-og_name="Solinco Tour Bite 16L &amp; Vanquish 16 Hybrid String">Solinco Tour Bite 16L &amp; Vanquish 16 Hybrid String - 9,90 €</option>
+            <option value="SHTBV16" data-og_name="Solinco Tour Bite 17 &amp; Vanquish 16 Hybrid String">Solinco Tour Bite 17 &amp; Vanquish 16 Hybrid String - 9,90 €</option>
+            <option value="STB19" data-og_name="Solinco Tour Bite 19 (1.10) String">Solinco Tour Bite 19 (1.10) String - 11,90 €</option>
+            <option value="STBDR17" data-og_name="Solinco Tour Bite Diamond Rough 1.20/17 String">Solinco Tour Bite Diamond Rough 1.20/17 String - 11,90 €</option>
+            <option value="STBDR16L" data-og_name="Solinco Tour Bite Diamond Rough 1.25/16L String">Solinco Tour Bite Diamond Rough 1.25/16L String - 11,90 €</option>
+            <option value="STBS17" data-og_name="Solinco Tour Bite Soft 1.20/17 String">Solinco Tour Bite Soft 1.20/17 String - 11,90 €</option>
+            <option value="STBS16L" data-og_name="Solinco Tour Bite Soft 1.25/16L String">Solinco Tour Bite Soft 1.25/16L String - 11,90 €</option>
+            <option value="STBS16" data-og_name="Solinco Tour Bite Soft 1.30/16 String">Solinco Tour Bite Soft 1.30/16 String - 11,90 €</option>
+            <option value="SVAN16" data-og_name="Solinco Vanquish 1.30/16 String">Solinco Vanquish 1.30/16 String - 10,94 €</option>
+            <option value="SXN17" data-og_name="Solinco X-Natural 1.20/17 String">Solinco X-Natural 1.20/17 String - 14,90 €</option>
+            <option value="SXN16" data-og_name="Solinco X-Natural 1.30/16 String">Solinco X-Natural 1.30/16 String - 14,90 €</option>
+            <option value="TBC18" data-og_name="Tecnifibre Black Code 1.18 String ">Tecnifibre Black Code 1.18 String - 12,50 €</option>
+            <option value="TBC124FS" data-og_name="Tecnifibre Black Code 1.24 Fire String ">Tecnifibre Black Code 1.24 Fire String - 11,90 €</option>
+            <option value="TBC124LS" data-og_name="Tecnifibre Black Code 1.24 Lime String ">Tecnifibre Black Code 1.24 Lime String - 11,90 €</option>
+            <option value="TBC124S" data-og_name="Tecnifibre Black Code 1.24 String ">Tecnifibre Black Code 1.24 String - 12,50 €</option>
+            <option value="TBC128FS" data-og_name="Tecnifibre Black Code 1.28 Fire String ">Tecnifibre Black Code 1.28 Fire String - 11,90 €</option>
+            <option value="TBC128LS" data-og_name="Tecnifibre Black Code 1.28 Lime String ">Tecnifibre Black Code 1.28 Lime String - 11,90 €</option>
+            <option value="TBC128S" data-og_name="Tecnifibre Black Code 1.28 String ">Tecnifibre Black Code 1.28 String - 12,50 €</option>
+            <option value="TBC4S18S" data-og_name="Tecnifibre Black Code 4S 1.20 (18) String ">Tecnifibre Black Code 4S 1.20 (18) String - 13,49 €</option>
+            <option value="TBC4S17S" data-og_name="Tecnifibre Black Code 4S 1.25/17 String ">Tecnifibre Black Code 4S 1.25/17 String - 15,90 €</option>
+            <option value="TBC4S16S" data-og_name="Tecnifibre Black Code 4S 1.30/16 String ">Tecnifibre Black Code 4S 1.30/16 String - 13,49 €</option>
+            <option value="THDMXF17" data-og_name="Tecnifibre HDMX Yellow 1.25 String ">Tecnifibre HDMX Yellow 1.25 String - 15,90 €</option>
+            <option value="THDMXF16" data-og_name="Tecnifibre HDMX Yellow 1.30 String ">Tecnifibre HDMX Yellow 1.30 String - 15,90 €</option>
+            <option value="THDMXF15" data-og_name="Tecnifibre HDMX Yellow 1.35 String ">Tecnifibre HDMX Yellow 1.35 String - 15,90 €</option>
+            <option value="TICO18S" data-og_name="Tecnifibre Ice Code 1.20 (18) String ">Tecnifibre Ice Code 1.20 (18) String - 10,50 €</option>
+            <option value="TICO17S" data-og_name="Tecnifibre Ice Code 1.25 / 17 String ">Tecnifibre Ice Code 1.25 / 17 String - 10,50 €</option>
+            <option value="TICO16S" data-og_name="Tecnifibre Ice Code 1.30/16 String ">Tecnifibre Ice Code 1.30/16 String - 10,50 €</option>
+            <option value="NRG17" data-og_name="Tecnifibre NRG2 1.24 17 String">Tecnifibre NRG2 1.24 17 String - 17,50 €</option>
+            <option value="NRG16" data-og_name="Tecnifibre NRG2 1.32 16 String">Tecnifibre NRG2 1.32 16 String - 17,50 €</option>
+            <option value="NRG16B" data-og_name="Tecnifibre NRG2 1.32 16 String Black">Tecnifibre NRG2 1.32 16 String Black - 17,50 €</option>
+            <option value="TPRC18" data-og_name="Tecnifibre Pro Red Code 1.20 String ">Tecnifibre Pro Red Code 1.20 String - 8,90 €</option>
+            <option value="TPRC17" data-og_name="Tecnifibre Pro Red Code 1.25/17 String ">Tecnifibre Pro Red Code 1.25/17 String - 8,90 €</option>
+            <option value="TPRC16" data-og_name="Tecnifibre Pro Red Code 1.30/16 String ">Tecnifibre Pro Red Code 1.30/16 String - 8,90 €</option>
+            <option value="TFRC18WH" data-og_name="Tecnifibre Razor Code White 1.20 String">Tecnifibre Razor Code White 1.20 String - 11,90 €</option>
+            <option value="TFRC17WH" data-og_name="Tecnifibre Razor Code White 1.25/17 String">Tecnifibre Razor Code White 1.25/17 String - 11,90 €</option>
+            <option value="TFRC16WH" data-og_name="Tecnifibre Razor Code White 1.30 String">Tecnifibre Razor Code White 1.30 String - 11,90 €</option>
+            <option value="TGV17B" data-og_name="Tecnifibre TGV 1.25 String Black">Tecnifibre TGV 1.25 String Black - 17,90 €</option>
+            <option value="TSTX28" data-og_name="Tecnifibre Triax 1.28/17 String ">Tecnifibre Triax 1.28/17 String - 17,50 €</option>
+            <option value="TSTX33" data-og_name="Tecnifibre Triax 1.33/16 String ">Tecnifibre Triax 1.33/16 String - 17,50 €</option>
+            <option value="TSTX38" data-og_name="Tecnifibre Triax 1.38/15L String ">Tecnifibre Triax 1.38/15L String - 17,50 €</option>
+            <option value="X118NA" data-og_name="Tecnifibre X-One Biphase 1.18 String">Tecnifibre X-One Biphase 1.18 String - 21,60 €</option>
+            <option value="X117B" data-og_name="Tecnifibre X-One Biphase 1.24 Black (17) String ">Tecnifibre X-One Biphase 1.24 Black (17) String - 21,60 €</option>
+            <option value="X117" data-og_name="Tecnifibre X-One Biphase 1.24 Natural (17) String ">Tecnifibre X-One Biphase 1.24 Natural (17) String - 21,60 €</option>
+            <option value="X116" data-og_name="Tecnifibre X-One Biphase 1.30/16 String ">Tecnifibre X-One Biphase 1.30/16 String - 21,60 €</option>
+            <option value="X116R" data-og_name="Tecnifibre X-One Biphase 1.30/16 String Red">Tecnifibre X-One Biphase 1.30/16 String Red - 21,60 €</option>
+            <option value="X115" data-og_name="Tecnifibre X-One Biphase 1.34 String ">Tecnifibre X-One Biphase 1.34 String - 21,60 €</option>
+            <option value="XR316" data-og_name="Tecnifibre XR3 1.30/16 String ">Tecnifibre XR3 1.30/16 String - 14,50 €</option>
+            <option value="CPOW16" data-og_name="Topspin Cyber Blue 1.30 String ">Topspin Cyber Blue 1.30 String - 4,80 €</option>
+            <option value="UBHBK120" data-og_name="Tourna Big Hitter Black 7 1.20 (17) String">Tourna Big Hitter Black 7 1.20 (17) String - 9,50 €</option>
+            <option value="UBHBK125" data-og_name="Tourna Big Hitter Black 7 1.25 String">Tourna Big Hitter Black 7 1.25 String - 9,50 €</option>
+            <option value="TBHD17S" data-og_name="Tourna Big Hitter Deuce 17 (1.25) String">Tourna Big Hitter Deuce 17 (1.25) String - 9,90 €</option>
+            <option value="UBHBR125" data-og_name="Tourna Big Hitter Rough Blue 1.25 String ">Tourna Big Hitter Rough Blue 1.25 String - 7,90 €</option>
+            <option value="VCYC19" data-og_name="Volkl Cyclone 1.10/19 String Black">Volkl Cyclone 1.10/19 String Black - 9,90 €</option>
+            <option value="VPF217B" data-og_name="Volkl Power Fiber II 1.25/17 String Black">Volkl Power Fiber II 1.25/17 String Black - 14,99 €</option>
+            <option value="VPF217" data-og_name="Volkl Power Fiber II 1.25/17 String Natural">Volkl Power Fiber II 1.25/17 String Natural - 15,90 €</option>
+            <option value="VPROBL18" data-og_name="Volkl V-Pro 1.18/18 String Blue">Volkl V-Pro 1.18/18 String Blue - 8,00 €</option>
+            <option value="VTTW19" data-og_name="Volkl V-Torque Tour 1.10/19 String White">Volkl V-Torque Tour 1.10/19 String White - 14,90 €</option>
+            <option value="VTTW18" data-og_name="Volkl V-Torque Tour 1.20/18 String White">Volkl V-Torque Tour 1.20/18 String White - 12,80 €</option>
+            <option value="VTTW17" data-og_name="Volkl V-Torque Tour 1.25/17 String White">Volkl V-Torque Tour 1.25/17 String White - 12,80 €</option>
+            <option value="WCDR" data-og_name="Weiss CANNON Dual Reality Hybrid String">Weiss CANNON Dual Reality Hybrid String - 8,90 €</option>
+            <option value="WCMB116BL" data-og_name="Weiss CANNON Mosquito Bite 1.19 String Blue">Weiss CANNON Mosquito Bite 1.19 String Blue - 7,94 €</option>
+            <option value="WCSC122" data-og_name="Weiss CANNON Scorpion 1.22 String">Weiss CANNON Scorpion 1.22 String - 7,94 €</option>
+            <option value="WCS120" data-og_name="Weiss CANNON Silverstring 1.20 String">Weiss CANNON Silverstring 1.20 String - 8,90 €</option>
+            <option value="WCS125" data-og_name="Weiss CANNON Silverstring 1.25 String">Weiss CANNON Silverstring 1.25 String - 8,90 €</option>
+            <option value="TURBTW17" data-og_name="Weiss CANNON TurboTwist 1.24 String">Weiss CANNON TurboTwist 1.24 String - 8,90 €</option>
+            <option value="WCRG123" data-og_name="Weiss CANNON Ultra Cable 17 Yellow (1.23) String">Weiss CANNON Ultra Cable 17 Yellow (1.23) String - 9,90 €</option>
+            <option value="WCCDO" data-og_name="Wilson Champions Choice Duo (ALU Rough + Gut) String">Wilson Champions Choice Duo (ALU Rough + Gut) String - 59,90 €</option>
+            <option value="DUOPALUNXT" data-og_name="Wilson Duo Power (NXT Power + ALU Power) String">Wilson Duo Power (NXT Power + ALU Power) String - 29,90 €</option>
+            <option value="DPRGS16" data-og_name="Wilson Duo Power Roland Garros String Set 1.30/16">Wilson Duo Power Roland Garros String Set 1.30/16 - 17,90 €</option>
+            <option value="WNAT1" data-og_name="Wilson Natural Gut 1.25/17 String">Wilson Natural Gut 1.25/17 String - 55,91 €</option>
+            <option value="WNAT16" data-og_name="Wilson Natural Gut 1.30/16 String">Wilson Natural Gut 1.30/16 String - 55,91 €</option>
+            <option value="WNXTS" data-og_name="Wilson NXT 1.24/17 String">Wilson NXT 1.24/17 String - 20,90 €</option>
+            <option value="WNXT" data-og_name="Wilson NXT 1.30/16 String">Wilson NXT 1.30/16 String - 20,90 €</option>
+            <option value="WNXTC" data-og_name="Wilson NXT Control 16 (1.32) String">Wilson NXT Control 16 (1.32) String - 21,90 €</option>
+            <option value="WNXT16" data-og_name="Wilson NXT Power 1.30/16 String">Wilson NXT Power 1.30/16 String - 21,90 €</option>
+            <option value="WNXTS16" data-og_name="Wilson NXT Soft 1.30/16 String">Wilson NXT Soft 1.30/16 String - 22,90 €</option>
+            <option value="WRES17BK" data-og_name="Wilson Revolve 17 (1.25) Black">Wilson Revolve 17 (1.25) Black - 11,90 €</option>
+            <option value="WRES17WH" data-og_name="Wilson Revolve 17 (1.25) White String">Wilson Revolve 17 (1.25) White String - 11,90 €</option>
+            <option value="WSNS17" data-og_name="Wilson Sensation 1.25/17 String">Wilson Sensation 1.25/17 String - 10,90 €</option>
+            <option value="SEN16GN" data-og_name="Wilson Sensation 1.30/16 Green String">Wilson Sensation 1.30/16 Green String - 9,90 €</option>
+            <option value="WSN16" data-og_name="Wilson Sensation 1.30/16 String">Wilson Sensation 1.30/16 String - 10,90 €</option>
+            <option value="WSNC16" data-og_name="Wilson Sensation Control 1.30/16 String">Wilson Sensation Control 1.30/16 String - 12,50 €</option>
+            <option value="YPTD16L" data-og_name="Yonex Poly Tour Drive 1.25/16L String Set">Yonex Poly Tour Drive 1.25/16L String Set - 9,90 €</option>
+            <option value="YPTF120" data-og_name="Yonex Poly Tour Fire 1.20/17 String Red">Yonex Poly Tour Fire 1.20/17 String Red - 11,90 €</option>
+            <option value="YPTF125" data-og_name="Yonex Poly Tour Fire 1.25/16L String Red">Yonex Poly Tour Fire 1.25/16L String Red - 11,90 €</option>
+            <option value="YPTP120" data-og_name="Yonex Poly Tour Pro 1.20/17 String Set Yellow">Yonex Poly Tour Pro 1.20/17 String Set Yellow - 9,90 €</option>
+            <option value="YPTP125B" data-og_name="Yonex Poly Tour Pro 1.25/16L String Set Black">Yonex Poly Tour Pro 1.25/16L String Set Black - 9,90 €</option>
+            <option value="YPTS16LB" data-og_name="Yonex Poly Tour Strike 1.25/16L Black String">Yonex Poly Tour Strike 1.25/16L Black String - 14,90 €</option>
+            <option value="YPTS16L" data-og_name="Yonex Poly Tour Strike 1.25/16L Grey String">Yonex Poly Tour Strike 1.25/16L Grey String - 14,90 €</option>
+            <option value="YREXCL" data-og_name="Yonex Rexis Comfort 1.25/16L String Set">Yonex Rexis Comfort 1.25/16L String Set - 22,90 €</option>
+            <option value="YREXSL" data-og_name="Yonex Rexis Speed 1.25/16L String Set">Yonex Rexis Speed 1.25/16L String Set - 22,90 €</option>
+          </select>
+          <br>
+          <label for="string-gauge">Select string gauge:</label>
+          <select id="string-gauge" name="string-gauge">
+            <option value="16">16 gauge</option>
+            <option value="17">17 gauge</option>
+            <option value="15">15 gauge</option>
+            <option value="18">18 gauge</option>
+          </select>
+
+          <br>
+        </form>
+      </div>
+    </div>
